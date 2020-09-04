@@ -16,7 +16,7 @@
     "nodemon": "^1.12.1"
   },
   "dependencies": {
-    "mongodb": "^2.2.33",
+    "mongodb": "^3.1.13",
     "node-rest-client": "^3.1.0"
   }
 }
